@@ -1,0 +1,87 @@
+.blue {
+	background: linear-gradient(to bottom, #507da2 0%, #305f87 100%);
+	position: absolute;
+	height: 43%;
+	width: 100%;
+	top: 0;
+	z-index: -1;
+}
+.content {
+	max-width: 85%;
+	max-height: 75%;
+	margin: 10%;
+	z-index: 1;
+}
+.colRight {
+	float: right;
+	width: 50%;
+}
+.brandImg {
+	display: block;
+	height: 40px;
+	margin-bottom: 100px;
+}
+.instaImg {
+	float: left;
+	text-align: left;
+
+}
+.button1 {
+	background-color: #5C7D98;
+	color: white;
+	height: 3em;
+	width: auto;
+	float: right;
+	align-content: right;
+	margin: 3%;
+	padding: 7px;
+	font-size: 13px;
+}
+.home {
+	float: left;
+	padding-right: 3px;	
+
+}
+h1 {
+	color: blue;
+	text-align: left;
+	display: block;
+	clear: left;
+}
+.headline {
+	display: block;
+}
+.boxFade {
+	background-image: url("frame.png");
+	height: 25%;
+	width: 88%;
+	background-repeat: no-repeat;
+	background-size: contain;
+	padding: 20px;
+}
+.mediaLinks {
+	width: 88%;
+	text-align: center;
+}
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: underline;
+}
+footer {
+	text-transform: uppercase;
+	text-align: center;
+	
+
+}
+
